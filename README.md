@@ -32,11 +32,11 @@ This repository contains a comprehensive analysis of financial and credit card u
 ### 4. Financial Trends & Correlations
 - How does income correlate with credit limits across clients?
 - What is the relationship between credit limits and loan approvals?
-Tools & Technologies Used
-Power BI: For creating interactive dashboards and data visualizations.
-DAX: Used for advanced calculations and deriving key metrics.
-Datasets: Combined customer and credit card data for in-depth analysis.
-Repository Contents
-Financial_analysis.pbix: Power BI file containing the interactive dashboards.
-Financial Analysis - POWER BI.pdf: Detailed documentation of data cleaning, transformation, and key steps.
-Financial-data/: Includes raw and cleaned datasets used for analysis.
+## Tools & Technologies Used
+- **Power BI:** For creating interactive dashboards and data visualizations.
+- **DAX:** Used for advanced calculations and deriving key metrics.
+- **Datasets:** Combined customer and credit card data for in-depth analysis.
+## Repository Contents
+`Financial_analysis.pbix:` Power BI file containing the interactive dashboards.
+`Financial Analysis - POWER BI.pdf:` Detailed documentation of data cleaning, transformation, and key steps.
+`Financial-data/:` Includes raw and cleaned datasets used for analysis.
