@@ -37,6 +37,6 @@ This repository contains a comprehensive analysis of financial and credit card u
 - **DAX:** Used for advanced calculations and deriving key metrics.
 - **Datasets:** Combined customer and credit card data for in-depth analysis.
 ## Repository Contents
-`Financial_analysis.pbix:` Power BI file containing the interactive dashboards.
-`Financial Analysis - POWER BI.pdf:` Detailed documentation of data cleaning, transformation, and key steps.
-`Financial-data/:` Includes raw and cleaned datasets used for analysis.
+- `Financial_analysis.pbix:` Power BI file containing the interactive dashboards.
+- `Financial Analysis - POWER BI.pdf:` Detailed documentation of data cleaning, transformation, and key steps.
+- `Financial-data/:` Includes raw and cleaned datasets used for analysis.
